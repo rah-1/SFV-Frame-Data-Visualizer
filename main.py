@@ -68,30 +68,220 @@ def file_reader(character, filename):
             character.add_move(move)
 
 
+abigail = Character("Abigail", 1100, 1050)
+my_char.append(abigail.name)
+char_dict[abigail.name] = abigail
+file_reader(abigail, "abigail.txt")
+
+alex = Character("Alex", 1050, 1075)
+my_char.append(alex.name)
+char_dict[alex.name] = alex
+file_reader(alex, "alex.txt")
+
 akuma = Character("Akuma", 900, 900)
 my_char.append(akuma.name)
 char_dict[akuma.name] = akuma
 file_reader(akuma, "akuma.txt")
 
-m_bison = Character("M. Bison", 1000, 1000)
-my_char.append(m_bison.name)
-char_dict[m_bison.name] = m_bison
-file_reader(m_bison, "m_bison.txt")
+balrog = Character("Balrog", 1025, 1050)
+my_char.append(balrog.name)
+char_dict[balrog.name] = balrog
+file_reader(balrog, "balrog.txt")
+
+birdie = Character("Birdie", 1050, 1000)
+my_char.append(birdie.name)
+char_dict[birdie.name] = birdie
+file_reader(birdie, "birdie.txt")
+
+blanka = Character("Blanka", 1025, 1050)
+my_char.append(blanka.name)
+char_dict[blanka.name] = blanka
+file_reader(blanka, "blanka.txt")
+
+cammy = Character("Cammy", 925, 925)
+my_char.append(cammy.name)
+char_dict[cammy.name] = cammy
+file_reader(cammy, "cammy.txt")
+
+chun_li = Character("Chun-Li", 975, 1000)
+my_char.append(chun_li.name)
+char_dict[chun_li.name] = chun_li
+file_reader(chun_li, "chun_li.txt")
+
+cody = Character("Cody", 1025, 1050)
+my_char.append(cody.name)
+char_dict[cody.name] = cody
+file_reader(cody, "cody.txt")
+
+dan = Character("Dan", 1025, 950)
+my_char.append(dan.name)
+char_dict[dan.name] = dan
+file_reader(dan, "dan.txt")
+
+dhalsim = Character("Dhalsim", 950, 950)
+my_char.append(dhalsim.name)
+char_dict[dhalsim.name] = dhalsim
+file_reader(dhalsim, "dhalsim.txt")
+
+e_honda = Character("E. Honda", 1050, 1075)
+my_char.append(e_honda.name)
+char_dict[e_honda.name] = e_honda
+file_reader(e_honda, "e_honda.txt")
+
+ed = Character("Ed", 1025, 1050)
+my_char.append(ed.name)
+char_dict[ed.name] = ed
+file_reader(ed, "ed.txt")
+
+fang = Character("F.A.N.G.", 975, 1000)
+my_char.append(fang.name)
+char_dict[fang.name] = fang
+file_reader(fang, "fang.txt")
+
+falke = Character("Falke", 975, 1000)
+my_char.append(falke.name)
+char_dict[falke.name] = falke
+file_reader(falke, "falke.txt")
+
+g = Character("G", 1025, 1050)
+my_char.append(g.name)
+char_dict[g.name] = g
+file_reader(g, "g.txt")
+
+gill = Character("Gill", 1025, 1050)
+my_char.append(gill.name)
+char_dict[gill.name] = gill
+file_reader(gill, "gill.txt")
+
+guile = Character("Guile", 975, 975)
+my_char.append(guile.name)
+char_dict[guile.name] = guile
+file_reader(guile, "guile.txt")
+
+ibuki = Character("Ibuki", 925, 950)
+my_char.append(ibuki.name)
+char_dict[ibuki.name] = ibuki
+file_reader(ibuki, "ibuki.txt")
+
+juri = Character("Juri", 975, 1000)
+my_char.append(juri.name)
+char_dict[juri.name] = juri
+file_reader(juri, "juri.txt")
+
+kage = Character("Kage", 925, 950)
+my_char.append(kage.name)
+char_dict[kage.name] = kage
+file_reader(kage, "kage.txt")
+
+karin = Character("Karin", 925, 950)
+my_char.append(karin.name)
+char_dict[karin.name] = karin
+file_reader(karin, "karin.txt")
 
 ken = Character("Ken", 1025, 1050)
 my_char.append(ken.name)
 char_dict[ken.name] = ken
 file_reader(ken, "ken.txt")
 
+kolin = Character("Kolin", 1000, 1000)
+my_char.append(kolin.name)
+char_dict[kolin.name] = kolin
+file_reader(kolin, "kolin.txt")
+
+laura = Character("Laura", 1025, 1000)
+my_char.append(laura.name)
+char_dict[laura.name] = laura
+file_reader(laura, "laura.txt")
+
+lucia = Character("Lucia", 975, 1000)
+my_char.append(lucia.name)
+char_dict[lucia.name] = lucia
+file_reader(lucia, "lucia.txt")
+
+m_bison = Character("M. Bison", 1000, 1000)
+my_char.append(m_bison.name)
+char_dict[m_bison.name] = m_bison
+file_reader(m_bison, "m_bison.txt")
+
+menat = Character("Menat", 950, 950)
+my_char.append(menat.name)
+char_dict[menat.name] = menat
+file_reader(menat, "menat.txt")
+
+nash = Character("Nash", 975, 1000)
+my_char.append(nash.name)
+char_dict[nash.name] = nash
+file_reader(nash, "nash.txt")
+
+necalli = Character("Necalli", 1025, 1050)
+my_char.append(necalli.name)
+char_dict[necalli.name] = necalli
+file_reader(necalli, "necalli.txt")
+
+poison = Character("Poison", 975, 975)
+my_char.append(poison.name)
+char_dict[poison.name] = poison
+file_reader(poison, "poison.txt")
+
+r_mika = Character("R. Mika", 950, 1000)
+my_char.append(r_mika.name)
+char_dict[r_mika.name] = r_mika
+file_reader(r_mika, "r_mika.txt")
+
+rashid = Character("Rashid", 950, 950)
+my_char.append(rashid.name)
+char_dict[rashid.name] = rashid
+file_reader(rashid, "rashid.txt")
+
+rose = Character("Rashid", 950, 1000)
+my_char.append(rose.name)
+char_dict[rose.name] = rose
+file_reader(rose, "rose.txt")
+
 ryu = Character("Ryu", 1025, 1050)
 my_char.append(ryu.name)
 char_dict[ryu.name] = ryu
 file_reader(ryu, "ryu.txt")
 
-guile = Character("Guile", 975, 975)
-my_char.append(guile.name)
-char_dict[guile.name] = guile
-file_reader(guile, "guile.txt")
+sagat = Character("Sagat", 1025, 1050)
+my_char.append(sagat.name)
+char_dict[sagat.name] = sagat
+file_reader(sagat, "sagat.txt")
+
+sakura = Character("Sakura", 975, 1000)
+my_char.append(sakura.name)
+char_dict[sakura.name] = sakura
+file_reader(sakura, "sakura.txt")
+
+seth = Character("Seth", 900, 900)
+my_char.append(seth.name)
+char_dict[seth.name] = seth
+file_reader(seth, "seth.txt")
+
+urien = Character("Urien", 1025, 1050)
+my_char.append(urien.name)
+char_dict[urien.name] = urien
+file_reader(urien, "urien.txt")
+
+vega = Character("Vega", 1025, 975)
+my_char.append(vega.name)
+char_dict[vega.name] = vega
+file_reader(vega, "vega.txt")
+
+zangief = Character("Zangief", 1075, 1100)
+my_char.append(zangief.name)
+char_dict[zangief.name] = zangief
+file_reader(zangief, "zangief.txt")
+
+zeku_old = Character("Zeku (Old)", 1000, 1000)
+my_char.append(zeku_old.name)
+char_dict[zeku_old.name] = zeku_old
+file_reader(zeku_old, "zeku_old.txt")
+
+zeku_young = Character("Zeku (Young)", 1000, 1000)
+my_char.append(zeku_young.name)
+char_dict[zeku_young.name] = zeku_young
+file_reader(zeku_young, "zeku_young.txt")
 
 
 root = Tk()
