@@ -28,7 +28,7 @@ Check out these videos for a more in-depth explanation on Street Fighter fundame
 - Neutral Game and Strategies: https://www.youtube.com/watch?v=oCZ2gB9gB4M  
 - General Combo Guide: https://www.youtube.com/watch?v=xUW56Qk9nek
 <br/>
-All data comes from the following source:
+All data comes from the following resource:
  https://fullmeter.com/fatonline/  
   <br/> 
 Check out my YouTube video explaining the TEKKEN 7 version of the tool:  
