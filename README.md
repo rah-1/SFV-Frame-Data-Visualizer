@@ -21,11 +21,12 @@ To maximize the interface's use, ensure you follow the steps below.
   by changing the true/false values of the respective boolean variables in the first few lines of ```main.py```.  
     <br/>
     
-*** __Additional Resources__ ***
+*** __Additional Resources__ ***  
 Check out these videos for a more in-depth explanation on Street Fighter fundamentals and frame data:  
 - General Beginner's Guide: https://www.youtube.com/watch?v=Of_cSjA_KXY  
 - Frame Data Explained: https://streetfighter.fandom.com/wiki/Frame_Data
 - Neutral Game and Strategies: https://www.youtube.com/watch?v=oCZ2gB9gB4M  
 - General Combo Guide: https://www.youtube.com/watch?v=xUW56Qk9nek
+<br/>
 All data comes from the following source:
 - https://fullmeter.com/fatonline/
